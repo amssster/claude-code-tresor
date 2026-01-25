@@ -83,6 +83,11 @@ Claude Code Tresor is the ultimate collection of **professional-grade utilities*
 > **💡 Ecosystem Tip:** Looking for more? Check out the [Claude Code Skill Factory](https://github.com/alirezarezvani/claude-code-skill-factory) to build custom skills, or browse the [Claude Skills Library](https://github.com/alirezarezvani/claude-skills) for pre-built professional domain packages. See [Related Projects](#-related-projects--ecosystem) for details.
 >
 > **📖 [Complete Augmentation Guide](https://gist.github.com/alirezarezvani/a0f6e0a984d4a4adc4842bbe124c5935)** - Comprehensive guide with FAQs, use cases, and installation instructions
+>
+> ## 📚 Deep Dive
+
+### Want to understand the architecture behind this 141-agent setup?
+- [141 Claude Code Agents: The Setup That Actually Works](https://medium.com/@alirezarezvani/141-claude-code-agents-the-setup-that-actually-works-a-complete-guide-98c2c79bf867?sk=73d5be97f9bd81a18edbcc0394e44b95)
 
 ---
 
